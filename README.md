@@ -1,8 +1,8 @@
 ## print('Oiii eu sou Marcus Serafim, Bem vindos ao meu perfil!')
 <div align="center">
-  <a href="https://github.com/serafimL147">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serafimL147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serafimL147&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia

@@ -8,6 +8,9 @@
 </div>
 </div>
 
+<br>
+<br>
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=serafimL147&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
